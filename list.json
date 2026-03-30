@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 19.99,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 59.99,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Coffee Mug",
+    "category": "Kitchen",
+    "price": 8.5,
+    "inStock": false
+  },
+  {
+    "id": 4,
+    "name": "Notebook",
+    "category": "Stationery",
+    "price": 4.25,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Desk Lamp",
+    "category": "Home",
+    "price": 22.0,
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Water Bottle",
+    "category": "Fitness",
+    "price": 12.75,
+    "inStock": false
+  }
+]
